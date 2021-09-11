@@ -1,0 +1,9 @@
+[submodule "DeFi-Building-Blocks"]
+	path = DeFi-Building-Blocks
+	url = https://github.com/kamilww/DeFi-Building-Blocks
+[submodule "project2-ML"]
+	path = project2-ML
+	url = https://github.com/Sesc0/project2
+[submodule "GroupProject1-cryptocalc"]
+	path = GroupProject1-cryptocalc
+	url = https://github.com/pyagh11/GroupProject1
